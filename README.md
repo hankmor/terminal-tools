@@ -24,7 +24,7 @@
 1. **Fork 本仓库**
 2. **创建你的特性分支** (`git checkout -b feature/add-new-tool`)
 3. **在 `terminal_tools.md` 中添加你推荐的工具**
-4. **提交你的更改** (`git commit -m 'Add: 添加 xxx 工具'`)
+4. **提交你的更改** (`git commit -m 'feat: 添加 xxx 工具'`)
 5. **推送到分支** (`git push origin feature/add-new-tool`)
 6. **创建 Pull Request**
 
