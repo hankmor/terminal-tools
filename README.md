@@ -35,7 +35,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.png" width="60" height="60" alt="Neovim"/><br/>
+<img src="https://neovim.io/logos/neovim-mark-flat.png" width="60" height="60" alt="Neovim"/><br/>
 <b>Neovim</b><br/>
 <sub>现代化编辑器</sub><br/>
 <a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/github/stars/neovim/neovim?style=social"/></a>
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tmux/tmux/master/.github/tmux-logo-medium.png" width="60" height="60" alt="tmux"/><br/>
+<img src="https://github.com/tmux/tmux/raw/master/logo/tmux-logo-medium.png" width="60" height="60" alt="tmux"/><br/>
 <b>tmux</b><br/>
 <sub>终端复用</sub><br/>
 <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/github/stars/tmux/tmux?style=social"/></a>
@@ -99,9 +99,9 @@
 | 💻 [开发工具](terminal_tools.md#开发工具) | Git、Docker、搜索等 | 10+ |
 | 📁 [文件管理](terminal_tools.md#文件管理) | 文件浏览和管理工具 | 5+ |
 | 🖥️ [系统工具](terminal_tools.md#系统工具) | 监控、磁盘、系统信息 | 8+ |
-| 🌐 [网络工具](terminal_tools.md#网络工具) | HTTP 客户端、测速等 | 3+ |
+| 🌐 [网络工具](terminal_tools.md#网络工具) | HTTP 客户端、测速等 | 2+ |
 | 🗄️ [数据库工具](terminal_tools.md#数据库工具) | 数据库管理客户端 | 3+ |
-| 🎨 [图片处理](terminal_tools.md#图片处理) | 终端图片查看和处理 | 4+ |
+| 🎨 [图片处理](terminal_tools.md#图片处理) | 终端图片查看和处理 | 3+ |
 | 📖 [阅读工具](terminal_tools.md#阅读工具) | RSS 订阅等 | 1+ |
 | 🛠️ [TUI 开发库](terminal_tools.md#tui-开发库) | 终端界面开发框架 | 2+ |
 
