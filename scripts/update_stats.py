@@ -28,18 +28,21 @@ def update_readme_stats(tools_file: Path, readme_file: Path) -> None:
     # 读取文件
     tools_content = tools_file.read_text(encoding="utf-8")
     readme_content = readme_file.read_text(encoding="utf-8")
-    
-    # 定义分类映射
+
+    # 定义分类映射（按 terminal_tools.md 中的顺序）
     categories = {
         "编辑器": "🎨 [编辑器]",
+        "终端模拟器": "🖥️ [终端模拟器]",
         "开发工具": "💻 [开发工具]",
+        "AI 工具": "🤖 [AI 工具]",
         "文件管理": "📁 [文件管理]",
-        "系统工具": "🖥️ [系统工具]",
+        "系统工具": "⚙️ [系统工具]",
         "网络工具": "🌐 [网络工具]",
         "数据库工具": "🗄️ [数据库工具]",
         "图片处理": "🎨 [图片处理]",
         "阅读工具": "📖 [阅读工具]",
         "TUI 开发库": "🛠️ [TUI 开发库]",
+        "其他实用工具": "🔧 [其他实用工具]",
     }
     
     print("📊 工具统计结果：")
