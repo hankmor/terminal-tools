@@ -5,6 +5,7 @@
 ## 📝 目录
 
 - [编辑器](#编辑器)
+- [终端模拟器](#终端模拟器)
 - [开发工具](#开发工具)
 - [AI 工具](#ai-工具)
 - [文件管理](#文件管理)
@@ -43,6 +44,58 @@ Neovim 的现代化配置框架，开箱即用，功能丰富。
 基于 Neovim 的 IDE 级配置，提供完整的开发环境。
 
 **安装方式**：参考官方文档
+
+---
+
+## 终端模拟器
+
+### [WezTerm](https://github.com/wez/wezterm)
+
+🖥️ GPU 加速的跨平台终端模拟器和复用器，功能强大且高度可配置。
+
+**支持系统**：macOS、Linux、Windows、FreeBSD
+
+### [iTerm2](https://github.com/gnachman/iTerm2)
+
+🍎 macOS 上最强大的终端模拟器，提供丰富的功能和集成。
+
+**支持系统**：macOS
+
+### [Alacritty](https://github.com/alacritty/alacritty)
+
+⚡ 基于 OpenGL 的极速终端模拟器，注重性能和简洁。
+
+**支持系统**：macOS、Linux、Windows、BSD
+
+### [Kitty](https://github.com/kovidgoyal/kitty)
+
+🐱 快速、功能丰富的 GPU 加速终端模拟器。
+
+**支持系统**：macOS、Linux
+
+### [Windows Terminal](https://github.com/microsoft/terminal)
+
+🪟 微软官方现代化终端应用，支持多标签和丰富的自定义选项。
+
+**支持系统**：Windows
+
+### [Hyper](https://github.com/vercel/hyper)
+
+✨ 基于 Electron 的美观可扩展终端，使用 Web 技术构建。
+
+**支持系统**：macOS、Linux、Windows
+
+### [Tabby](https://github.com/Eugeny/tabby)
+
+🎯 高度可定制的跨平台终端，支持 SSH、串口等多种连接。
+
+**支持系统**：macOS、Linux、Windows
+
+### [Rio](https://github.com/raphamorim/rio)
+
+🦀 使用 Rust 和 WebGPU 构建的现代化终端模拟器。
+
+**支持系统**：macOS、Linux、Windows
 
 ---
 
