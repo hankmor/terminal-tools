@@ -6,6 +6,7 @@
 
 - [编辑器](#编辑器)
 - [开发工具](#开发工具)
+- [AI 工具](#ai-工具)
 - [文件管理](#文件管理)
 - [系统工具](#系统工具)
 - [网络工具](#网络工具)
@@ -106,6 +107,67 @@ Go 语言开发的 TUI 日志管理工具。
 快速的代码搜索工具。
 
 **安装方式**：`brew install the_silver_searcher`
+
+---
+
+## AI 工具
+
+### [Claude Code](https://github.com/anthropics/claude-code)
+
+🤖 Anthropic 官方 Claude 命令行工具，可在终端直接与 Claude 对话和编写代码。
+
+**安装方式**：`npm install -g @anthropic-ai/claude-code`  
+**使用说明**：需要 Claude Pro 或 Max 订阅
+
+### [OpenAI Codex CLI](https://github.com/openai/codex)
+
+💡 OpenAI 官方编码助手，支持在终端中进行代码编辑和执行。
+
+**安装方式**：`npm i -g @openai/codex`  
+**使用说明**：需要 ChatGPT Plus/Pro 订阅或 API Key
+
+### [GitHub Copilot CLI](https://github.com/github/copilot-cli)
+
+✨ GitHub Copilot 的终端版本，提供 AI 辅助的命令行建议。
+
+**安装方式**：`npm install -g @github/github-copilot-cli`  
+**使用说明**：需要 GitHub Copilot 订阅
+
+### [aichat](https://github.com/sigoden/aichat)
+
+🚀 多合一 AI 聊天终端工具，支持 OpenAI、Claude、Gemini 等 20+ AI 模型。
+
+**安装方式**：`brew install aichat`
+
+### [mods](https://github.com/charmbracelet/mods)
+
+🎨 由 Charm 开发的 AI 终端工具，支持多种 LLM，界面美观。
+
+**安装方式**：`brew install mods`
+
+### [shell_gpt](https://github.com/TheR1D/shell_gpt)
+
+⚡ 使用 AI 生成和执行 Shell 命令，提高终端效率。
+
+**安装方式**：`pip install shell-gpt`
+
+### [llm](https://github.com/simonw/llm)
+
+🛠️ Simon Willison 开发的 LLM 命令行工具，支持多个模型和丰富的插件系统。
+
+**安装方式**：`pip install llm` 或 `brew install llm`
+
+### [fabric](https://github.com/danielmiessler/fabric)
+
+🧩 开源 AI 模式框架，提供 300+ 预定义 AI 提示模板。
+
+**安装方式**：`brew install fabric`
+
+### [chatgpt-cli](https://github.com/kardolus/chatgpt-cli)
+
+� 功能强大的 ChatGPT 终端客户端，支持会话管理。
+
+**安装方式**：`brew install chatgpt-cli` 或参考 GitHub 安装说明
 
 ---
 
@@ -330,6 +392,12 @@ Git 和 diff 输出的语法高亮工具。
 Zsh 配置管理框架，提供大量插件和主题。
 
 **安装方式**：`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+### [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+Zsh 自动补全插件，提供智能的命令补全建议。
+
+**安装方式**：`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
 ---
 
