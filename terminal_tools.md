@@ -222,6 +222,12 @@ Go 语言开发的 TUI 日志管理工具。
 
 **安装方式**：`brew install chatgpt-cli` 或参考 GitHub 安装说明
 
+### [OpenCode](https://github.com/anomalyco/opencode)
+
+🤖 终端原生 AI 编程助手，支持自然语言交互、多模型架构，可直接在终端中修改代码。
+
+**安装方式**：`curl -fsSL https://opencode.ai/install | bash`
+
 ---
 
 ## 文件管理
