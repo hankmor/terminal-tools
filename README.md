@@ -98,15 +98,15 @@
 | 🎨 [编辑器](terminal_tools.md#编辑器) | Vim、Neovim 及其配置 | 4+ |
 | �️ [终端模拟器](terminal_tools.md#终端模拟器) | WezTerm、iTerm2、Alacritty 等 | 8+ |
 | �💻 [开发工具](terminal_tools.md#开发工具) | Git、Docker、搜索等 | 10+ |
-| 🤖 [AI 工具](terminal_tools.md#ai-工具) | AI 聊天、代码助手等 | 9+ |
+| 🤖 [AI 工具](terminal_tools.md#ai-工具) | AI 聊天、代码助手等 | 10+ |
 | 📁 [文件管理](terminal_tools.md#文件管理) | 文件浏览和管理工具 | 5+ |
 | ⚙️ [系统工具](terminal_tools.md#系统工具) | 监控、磁盘、系统信息 | 8+ |
 | 🌐 [网络工具](terminal_tools.md#网络工具) | HTTP 客户端、测速等 | 2+ |
 | 🗄️ [数据库工具](terminal_tools.md#数据库工具) | 数据库管理客户端 | 3+ |
-| 🎨 [图片处理](terminal_tools.md#图片处理) | 终端图片查看和处理 | 3+ |
-| 📖 [阅读工具](terminal_tools.md#阅读工具) | RSS 订阅等 | 1+ |
+| 🎨 [图片处理](terminal_tools.md#图片处理) | 终端图片查看和处理 | 4+ |
+| 📖 [阅读工具](terminal_tools.md#阅读工具) | RSS 订阅等 | 2+ |
 | 🛠️ [TUI 开发库](terminal_tools.md#tui-开发库) | 终端界面开发框架 | 2+ |
-| 🔧 [其他实用工具](terminal_tools.md#其他实用工具) | JSON 处理、Shell 配置等 | 7+ |
+| 🔧 [其他实用工具](terminal_tools.md#其他实用工具) | JSON 处理、Shell 配置等 | 8+ |
 
 **📚 [查看完整工具列表 →](terminal_tools.md)**
 

@@ -386,6 +386,13 @@ MySQL 的终端客户端，支持自动补全和语法高亮。
 
 **安装方式**：参考官方文档
 
+### [gifski](https://github.com/ImageOptim/gifski)
+
+🌈 高质量 GIF 编码器，基于 Pngquant，可创建画质极佳的 GIF 动图。
+
+**安装方式**：`brew install gifski`
+**CLI安装**: `cargo install gifski`
+
 ---
 
 ## 阅读工具
@@ -395,6 +402,12 @@ MySQL 的终端客户端，支持自动补全和语法高亮。
 终端 RSS 订阅阅读器，轻松管理和阅读订阅源。
 
 **安装方式**：`brew install newsboat`
+
+### [glow](https://github.com/charmbracelet/glow)
+
+💅 终端 Markdown 阅读器，支持丰富的主题和样式。
+
+**安装方式**：`brew install glow`
 
 ---
 
@@ -421,6 +434,12 @@ Golang 最流行、强大的 TUI 框架，基于 Elm 架构。
 终端加密货币查看工具，实时追踪加密货币价格。
 
 **安装方式**：`brew install cointop`
+
+### [vhs](https://github.com/charmbracelet/vhs)
+
+📼 编写脚本生成终端 GIF 演示，将终端操作录制为高质量 GIF。
+
+**安装方式**：`brew install vhs`
 
 ### [jq](https://github.com/jqlang/jq)
 
